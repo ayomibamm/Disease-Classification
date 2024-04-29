@@ -1,0 +1,10 @@
+Classifier,Metric,Score
+RandomForestClassifier,precision,0.930705
+RandomForestClassifier,recall,0.938111
+RandomForestClassifier,f1-score,0.933865
+XGBClassifier,precision,0.926281
+XGBClassifier,recall,0.92548
+XGBClassifier,f1-score,0.925706
+CNNClassifier,precision,0.926649
+CNNClassifier,recall,0.921672
+CNNClassifier,f1-score,0.92371
