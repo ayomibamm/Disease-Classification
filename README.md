@@ -30,6 +30,8 @@ The combined average classification reports for each classifier are as follows:
 |                         | recall    | 0.921672|
 |                         | f1-score  | 0.923710|
 
+Overall, all classifiers demonstrated strong predictive capabilities for identifying thyroid diseases, suggesting potential utility in clinical decision-making and diagnosis. Random Forest exhibited the highest precision (93.07%), while XGBoost and CNN showed competitive performance, with precision scores of 92.63% and 92.66% respectively. 
+
 Further details and visualizations can be found in the project files.
 
 ## Instructions
